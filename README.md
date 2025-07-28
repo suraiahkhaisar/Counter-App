@@ -3,7 +3,7 @@
 This is a simple React app with a counter and user authentication. Users can register, log in, and manage a counter (increment, decrement, reset).
 ## 🚀 Features
 
-- Register with email and password
+- Register with username and password
 - Login to access the app
 - Counter with increment, decrement, and reset
 - Logout functionality
