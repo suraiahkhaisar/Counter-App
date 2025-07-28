@@ -16,5 +16,5 @@ This is a simple React app with a counter and user authentication. Users can reg
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/counter-app.git
-cd counter-app
+git clone https://github.com/suraiahkhaisar/Counter-App.git
+cd counter
