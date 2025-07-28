@@ -18,3 +18,4 @@ This is a simple React app with a counter and user authentication. Users can reg
 ```bash
 git clone https://github.com/suraiahkhaisar/Counter-App.git
 cd counter
+npm start
